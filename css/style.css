@@ -1,0 +1,43 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-size: 1rem; 
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    text-align:center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+ol {
+    margin-top: 2rem;
+    margin-left: 5rem;
+}
+
+.item {
+    color:  #00008B;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+span {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+p {
+    font-size: 1.4rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
